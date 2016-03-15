@@ -20,7 +20,7 @@ Directives can both be HTML attributes and HTML elements. Most of our directives
 
 We might create a custom directive called "dropdown". This dropdown directive will have it's own template that will get put into the DOM, so we create it as a HTML element instead.
 
-In plain JavaScript, our dropdown might look [something like this](https://jsfiddle.net/ogyzmx7r). Now let's check out [what it is like in Angular](https://jsfiddle.net/ogyzmx7r/1/). You'll notice how we use a custom HTML element (`<dropdown>`) and the code we need is a lot simpler! Let's learn all about them.
+In plain JavaScript, our dropdown might look [something like this](https://jsfiddle.net/ogyzmx7r). There's a lot of code here that will be common to other elements, such as selecting and replacing elements from the page. Now let's check out [what it is like in Angular](https://jsfiddle.net/ogyzmx7r/1/). You'll notice how we use a custom HTML element (`<dropdown>`) and the code we need is a lot simpler and easier to read! Let's learn all about them.
 
 ## Creating a custom directive
 

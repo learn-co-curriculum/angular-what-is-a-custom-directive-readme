@@ -26,7 +26,7 @@ In plain JavaScript, our dropdown might look [something like this](https://jsfid
 
 Much like services and controllers, we can use the `.directive` function to create our directives.
 
-Our directive names are what we then use to reference them in the DOM. However, as the DOM is case-insensitive, we change the captial letters in our name to hypens. For instance, the directive name `myDirective` becomes `<my-directive></my-directive>`. `userDropdownList` will become `<user-dropdown-list></user-dropdown-list>`.
+Our directive names are what we then use to reference them in the DOM. However, as the DOM is case-insensitive, we change the capital letters in our name to hypens. For instance, the directive name `myDirective` becomes `<my-directive></my-directive>`. `userDropdownList` will become `<user-dropdown-list></user-dropdown-list>`.
 
 Let's look at a custom directive:
 
@@ -61,3 +61,5 @@ Would then be transformed into
 ```
 
 When rendered by Angular! This is an extremely basic directive, we're going to look into making them much more advanced in the next few readmes!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/angular-what-is-a-custom-directive-readme'>What Is A Custom Directive?</a> on Learn.co and start learning to code for free.</p>

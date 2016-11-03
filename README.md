@@ -2,7 +2,7 @@
 
 ## Overview
 
-One of the massive powerful aspects of Angular is the ability to actually be able to create our own directives.
+One of the more powerful aspects of Angular is the ability to create our own directives.
 
 ## Objectives
 
@@ -61,5 +61,7 @@ Would then be transformed into
 ```
 
 When rendered by Angular! This is an extremely basic directive, we're going to look into making them much more advanced in the next few readmes!
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/angular-what-is-a-custom-directive-readme'>What Is A Custom Directive?</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/angular-what-is-a-custom-directive-readme'>What Is A Custom Directive?</a> on Learn.co and start learning to code for free.</p>
